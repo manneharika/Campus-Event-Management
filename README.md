@@ -42,17 +42,17 @@ Here's how I organized everything:
 
 Event Management Platform
 
-|--- ai-conversations
+|--- ai-conversations--
 |        ai-conversations.md 
 
-├───config
+├───config--
 │       database.js
 
-├───controllers
+├───controllers--
 │       eventController.js
 │       reportController.js
 
-├───models
+├───models--
 │       index.js
 │       College.js
 │       Event.js
@@ -61,13 +61,13 @@ Event Management Platform
 │       Attendance.js
 │       Feedback.js
 
-└───routes
+└───routes--
         events.js
         reports.js
         
-│── design-document.md
+│── design--document.md
 
-│── Project-Summary.md        
+│── Project=-Summary.md        
 
 ├── .gitignore                      
 

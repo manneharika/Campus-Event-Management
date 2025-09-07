@@ -4,9 +4,10 @@
 
 ## 1. Database Design Discussion
 
--Topics Discussed: Table structure, relationships, unique IDs
--Followed: Basic table design and relationships
--Deviated: Added additional constraints for data integrity
+-Topics Discussed:
+-Table structure, database relationships, unique IDs to be implemented
+-Basic table design and relationships
+-Added additional constraints for data integrity
 
 ## 2. API Structure Discussion  
 

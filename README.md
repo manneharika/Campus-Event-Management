@@ -44,11 +44,14 @@ Event Management Platform
 
 |--- ai-conversations
 |        ai-conversations.md 
+
 ├───config
 │       database.js
+
 ├───controllers
 │       eventController.js
 │       reportController.js
+
 ├───models
 │       index.js
 │       College.js
@@ -57,24 +60,39 @@ Event Management Platform
 │       Registration.js
 │       Attendance.js
 │       Feedback.js
+
 └───routes
         events.js
         reports.js
+        
 │── design-document.md
+
 │── Project-Summary.md        
+
 ├── .gitignore                      
+
 ├── app.js                          
+
 ├── create-sample-data.js          
+
 ├── package.json                   
+
 └── README.md                      
 
 Event Management Platform:
+
 -- config # Database setup
+
 -- controllers # Business logic
+
 -- models # Database tables
+
 -- routes # API endpoints
+
 -- app.js # Main server file
+
 -- create-sample-data.js # Sample data generator
+
 -- README.md 
 
 I found this structure easier as it keeps things organized without being too complicated.

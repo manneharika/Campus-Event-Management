@@ -39,7 +39,9 @@ everything down.
 ## Project Structure
 
 Here's how I organized everything:
+
 Event Management Platform
+
 |-- 📁ai-conversations
 |    |--📄 ai-conversations.md 
 ├── 📁config

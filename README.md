@@ -101,7 +101,6 @@ I found this structure easier as it keeps things organized without being too com
 ## Conclusion
 
 This was actually a fun project to work on. It started feeling real when I could actually creat events and see reports working.
-
-If I had more time, I'd probably add user login and maybe email notifications. But for now, I'm pretty must satisified with how it turned out!
+If I had to improve it further, I'd probably add user login and maybe email notifications. 
 
 Built by [Manne Harika]

@@ -105,4 +105,3 @@ This was actually a fun project to work on. It started feeling real when I could
 If I had more time, I'd probably add user login and maybe email notifications. But for now, I'm pretty must satisified with how it turned out!
 
 Built by [Manne Harika]
-For Webknot Technologies Assignment
